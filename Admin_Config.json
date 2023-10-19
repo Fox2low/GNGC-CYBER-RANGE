@@ -1,0 +1,184 @@
+{
+    "challenges": {
+        "How Helpful": {
+            "Viewable": "True",
+            "Enabled": "True",
+            "Data": "NULL"
+        },
+        "I Promise": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "I Promise 2": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "List File": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Hidden Files": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "File Permissions": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Generic Travel": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Absolute Directory": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Homeward bound": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Cat, More or less": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Hex Appeal": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "String Theory": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Unknown File": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Matryoshka Doll": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Fix Me": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Redirection": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Simple Answer": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Correct parameters": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "View Source": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Alternate Options": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Hidden Fields": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Cookie Monster": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Call Mel": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Call Me 2": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Clever Cookie": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Diwhy challenge": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Basic Auth": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Accepting Victory": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Old Agent": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Old School": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "IDK What my challenge name is (HELP!!!)": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Operating Systems": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Networking Concepts": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Python Basics": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Forensics Fundamentals": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        },
+        "Cryptography 101": {
+            "Viewable": "True",
+            "Enabled": "False",
+            "Data": "NULL"
+        }
+    }
+}

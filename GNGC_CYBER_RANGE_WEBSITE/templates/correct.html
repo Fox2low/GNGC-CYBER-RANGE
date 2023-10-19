@@ -1,0 +1,10 @@
+{% extends 'ChallengeBase.html' %}
+{% block content %}
+<script>
+window.setTimeout(function(){
+    location.href = "{{ url_for('dashboard') }}"; 
+}, 3000); 
+</script>
+
+    <h1>Correct, You Win!!!</h1>
+{% endblock %}

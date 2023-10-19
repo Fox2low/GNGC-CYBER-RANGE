@@ -1,0 +1,11 @@
+{% extends 'ChallengeBase.html' %}
+{% block content %}
+<div class="category-container">
+    <h1>{{challengeinf[0]}}</h1><br>
+    <p>{{challengeinf[1]}}</p>
+    <form action="/challenge/{{challengeinf[0]}}" method="post">
+        <input type="text" placeholder="Insert Answer Here" name="challengeAnswer">
+        <button class="submitbutton">Submit</button>
+    </form>
+</div>
+{% endblock %}

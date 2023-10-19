@@ -23,18 +23,24 @@ To shutdown server
 #### The GNGC Cyber Range - Tasklist
 - [x] Github Repository Setup
 - [x] Github - VS Code Intergration Setup
-- [ ] Full Network Connectivity
-    - [ ] Basic Network structure designed
-    - [ ] Switch / Router Setup
-    - [ ] Centos Server setup
-    - [ ] Basic Kali installation installed on all clients.
-- [ ] Basic Network Services
-    - [ ] DHCP pools setup / Configured
-    - [ ] DNS Setup / Configured
-    - [ ] WSGI Server Setup / Configured
-    - [ ] SQL Server Setup / Configured.
-- [ ] Simple Challenges
-    - [ ] Simple Command Line Challenges
+- [x] Maintance Scripts
+    - [x] Create setup file
+    - [x] Create setupcheck file
+    - [x] Create startserver file
+    - [x] Create setupDB file
+    - [x] Create custom commands file
+- [x] Full Network Connectivity
+    - [x] Basic Network structure designed
+    - [x] Switch / Router Setup
+    - [x] Ubuntu Server setup
+    - [x] Basic Kali installation installed on all clients.
+- [x] Basic Network Services
+    - [x] DHCP pools setup / Configured
+    - [x] DNS Setup / Configured
+    - [x] WSGI Server Setup / Configured
+    - [x] SQL Server Setup / Configured.
+- [x] Simple Challenges
+    - [x] Simple Command Line Challenges
 
 **-- Everything from this point on should be completed in Assignment 3 --**
 
@@ -51,19 +57,20 @@ To shutdown server
 #### GNGC Cyber Range Web Component - Tasklist
 - [x] Github Repository Setup
 - [x] Github - VS Code Intergration Setup
-- [ ] Finished tasklist on Readme file
-- [ ] Basic Frontned
-    - [ ] Website Design
-    - [ ] Basic HTML and CSS
-    - [ ] The structure of home page
-- [ ] Database
-    - [ ] Creating MariaDB database
-    - [ ] Creating database model in sqlalchemy
-- [ ] Implementing features 
-    - [ ] Login and signup 
-    - [ ] Basic home and dashboard page
-- [ ] Planning challenges
-    - [ ] Basic web based challanges planned out
+- [x] Finished tasklist on Readme file
+- [x] Basic Frontned
+    - [X] Website Design
+    - [x] Basic HTML and CSS
+    - [X] The structure of home page
+- [X] Database
+    - [x] Creating MariaDB database
+    - [x] Creating database model in sqlalchemy
+- [X] Implementing features 
+    - [X] Login and signup 
+    - [X] Basic home and dashboard page
+    - [x] All Routes planned and done
+- [x] Planning challenges
+    - [x] Basic web based challanges planned out
 - [ ] Implementing challenges 
     - [ ] HTML, CSS and JS challanges created and running
     - [ ] Python challanges created and running

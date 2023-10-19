@@ -1,0 +1,5 @@
+#Put any files you don't want to be pushed when you commit
+#I already put these temp python files in here so the repo is clean
+
+__pycache__/
+*.pyc

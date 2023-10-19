@@ -1,0 +1,10 @@
+{% extends 'ChallengeBase.html' %}
+{% block content %}
+<div class="category-container">
+    <div class="categories">
+        {% for category in categoryList %}
+        <a href="/challenge_Dashboard/{{category}}">{{category}}</a>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

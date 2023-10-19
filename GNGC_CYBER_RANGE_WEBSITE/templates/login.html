@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}">
+    <title>GNGCyber - Login</title>
+</head>
+<body>
+    <div class="img">
+        <form class="login" method="post">
+            <h3>Login</h3>
+            {% for message in get_flashed_messages() %}
+            <p>{{ message }}</p>
+            {% endfor %}
+            <label for="username">Student ID</label>
+            <input type="text" placeholder="Student ID" name="studentId">
+            <label for="Password">Password</label>
+            <input type="password" placeholder="Password" name="userPass">
+            <button class="lgnbtn">Log-in</button>
+            <p style="padding-top:10%;">Don't have an account?<a href="/signup">Sign-up Today</a></p>
+
+        </form>
+    </div>
+</body>
+</html>
